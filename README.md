@@ -26,3 +26,5 @@ Input: http://localhost:8080/OAuth2v1/index.jsp
 4. Browse to: http://localhost:8080/OAuth2v1/
 
 5. Click "log in with google" on top of this page
+
+Currently hosted URL:  http://gmailsearch-1084.appspot.com/
